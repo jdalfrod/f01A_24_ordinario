@@ -1,8 +1,7 @@
-# **Computación I** #
-## Evaluación Final - Ejercicios A ##
-## Periodo Ordinario - 2024 ##
+# **Computación I**
+## Evaluación Final - Ejercicios A
+## Periodo Ordinario - 2024
 
-## Estudiante ##
-1. _Jonathan Alfonzo_
+[Repositorio GitHub](https://github.com/jdalfrod/f01A_24_ordinario.git)
 
-## Repositorio GitHub ##
+...
