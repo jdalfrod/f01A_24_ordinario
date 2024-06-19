@@ -1,7 +1,7 @@
 function op = menuF()
    clc
    fprintf('\t\t Ejercicios de Física\n')
-   fprintf('\t************************\n')
+   fprintf('\t\t***********************\n')
    disp('Calcular Periodo:             P')
    disp('Coeficiente de Fricción:      C')
    disp('Abandonar el Sistema:         S')
