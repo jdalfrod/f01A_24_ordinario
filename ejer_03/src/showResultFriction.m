@@ -1,5 +1,5 @@
 function showResultFriction(m, f, ff)
-   clc
+   clc;
    disp('__FRICCIÓN__');
    fprintf('Masa: %.3f\n', m);
    fprintf('Fuerza: %.3f\n', f);

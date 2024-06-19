@@ -1,4 +1,4 @@
-clc
+clc;
 clear all;
 
 [masa, k1, k2] = cargarDatos();
